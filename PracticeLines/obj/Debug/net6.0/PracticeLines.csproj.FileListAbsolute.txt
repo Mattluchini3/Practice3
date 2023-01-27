@@ -1,0 +1,15 @@
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/bin/Debug/net6.0/PracticeLines
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/bin/Debug/net6.0/PracticeLines.deps.json
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/bin/Debug/net6.0/PracticeLines.runtimeconfig.json
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/bin/Debug/net6.0/PracticeLines.dll
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/bin/Debug/net6.0/PracticeLines.pdb
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.dll
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/refint/PracticeLines.dll
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.pdb
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/PracticeLines.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/PracticeLines/PracticeLines/obj/Debug/net6.0/ref/PracticeLines.dll
